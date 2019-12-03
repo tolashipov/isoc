@@ -1,0 +1,10 @@
+.text-danger{
+    color: red;
+    display: block;
+    padding-top: 10px;
+}
+td, th {
+    border: 1px solid black;
+    margin: 0;
+    padding: 1px 5px;
+}
